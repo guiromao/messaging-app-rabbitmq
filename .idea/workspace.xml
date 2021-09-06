@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36ae1b78-d936-4749-9e98-a5340d4154e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/messagingrabbitmq/MessagingRabbitmqApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/messagingrabbitmq/MessagingRabbitmqApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/messagingrabbitmq/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/messagingrabbitmq/Runner.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

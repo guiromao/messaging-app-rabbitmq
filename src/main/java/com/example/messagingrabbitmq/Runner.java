@@ -20,7 +20,7 @@ public class Runner implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         System.out.println("Sending message...");
-        template.convertAndSend(MessagingRabbitmqApplication.topicExchangeName, "GAR Object",
+        template.convertAndSend(MessagingRabbitmqApplication.topicExchangeName, "foo.bar.gar",
                 "A Hello World from the Messaging service!");
         receiver.getLatch().await(10000, TimeUnit.MILLISECONDS);
     }
